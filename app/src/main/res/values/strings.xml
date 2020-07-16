@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Form</string>
+    <string name="title_articles">Articles</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="url_base_article">https://5bb1cd166418d70014071c8e.mockapi.io/</string>
+    <string name="title_activity_article_details">Article</string>
+    <string name="action_settings">Settings</string>
+</resources>
